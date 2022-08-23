@@ -1,0 +1,132 @@
+:root {
+    --body-bg-color: #121214;
+    --text-color: #E1E1E6;
+    --title-color: #04D361;
+    --form-color: #A8A8A8;
+    --bg-button-color: #8257e5;
+}
+
+* {
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+body{
+    display: flex;
+}
+
+.container {
+    background-color: var(--body-bg-color);
+    box-sizing: border-box;
+    width: 50%;
+    padding: 32px 32px 0 ;
+}
+
+.logo {
+    width: 400px;
+    margin-bottom: 60px;
+}
+
+
+.initial-article {
+    color: var(--text-color);
+    margin-bottom: 32px;
+}
+
+.initial-article h2 {
+    color: var(--title-color);
+    margin-bottom: 12px;
+    
+}
+
+
+
+.initial-article p:nth-child(2) {
+    color: var(--text-color);
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+form {
+    width: 140%;
+}
+
+.label-email {
+    color: var(--form-color);
+    font-weight: bold;
+    margin-bottom: 12px;
+    display: block;
+}
+
+
+.div-input {
+    display: flex;
+}
+
+/*ajustar tamanho*/
+#input-email {
+    display: inline;
+    margin-right: 0;
+    border: 0;
+    border-left: 4px solid #04D361;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.74); /*colocar na div */
+    padding: 10px;
+    width: 80%;
+    outline: none;
+}
+
+
+.btn-send {
+    width: 40px;
+    height: 40px;
+    border: 0;
+    background-color: #8257e5;   
+    background-image: url(./assets/send.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 45%;
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.74);
+    cursor: pointer;
+}
+
+
+
+.link-reader {
+    margin-top: 32px;
+    cursor: pointer;
+}
+
+.link-reader a {
+    color: var(--bg-button-color);
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 12px; 
+    display: flex;
+}
+
+.link-reader a:active {
+    color: #8257e5;
+    filter: brightness(1.2);
+    
+}
+
+.link-reader img {
+    margin-left: 12px;
+}
+
+
+
+.banner {
+    background-image: url(./assets/read_news.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    width: 50%;
+    height: 100vh;
+    z-index: -1;
+}
+
+
+
+
