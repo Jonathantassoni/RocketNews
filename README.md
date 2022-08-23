@@ -9,8 +9,6 @@ projeto realizado a partir de um dos desafios da [Rocketseat](https://www.rocket
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação
 * [CSS](https://maven.apache.org/) - Linguagem para estilização.
 
+## 🖥 Veja meu projeto
 
-
-
-
-
+Clicando [aqui](https://jonathantassoni.github.io/RocketNews/)
