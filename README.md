@@ -6,8 +6,6 @@ projeto realizado a partir de um dos desafios da [Rocketseat](https://www.rocket
 
 ## 🛠️ Construído com
 
-Utilizado as técnologias abaixo para o desenvolvimento:
-
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação
 * [CSS](https://maven.apache.org/) - Linguagem para estilização.
 
