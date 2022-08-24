@@ -11,4 +11,4 @@ projeto realizado a partir de um dos desafios da [Rocketseat](https://www.rocket
 
 ## 🖥 Veja meu projeto
 
-Clicando [aqui](https://jonathantassoni.github.io/RocketNews/)
+Clicando [aqui](https://jonathantassoni.github.io/RocketNews/).
